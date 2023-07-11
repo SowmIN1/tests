@@ -1,0 +1,43 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    text-align: center;
+}
+p,h4{
+    font: size 24px;
+    color: aquamarine;
+}
+img{
+    border: 5px solid red ;
+}
+
+.link{
+    text-decoration: none ;
+    color: brown;
+     font-size: larger;
+}
+#heading1{
+    background-color: blueviolet;
+}
